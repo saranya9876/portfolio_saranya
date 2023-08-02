@@ -21,8 +21,8 @@ def contact():
         smtp_server = 'smtp.gmail.com'
         smtp_port = 587
         sender_email = 'saranyasarusiva9999@gmail.com'
-        sender_password = 'gsubwzgbhwmtfzej'
-        receiver_email = 'p.md.57azhan@gmail.com'
+        sender_password = 'bpstpkuirlatvydv'
+        receiver_email = 'saranya.21iamos124@iadc.ac.in'
 
         # Create the email message
         msg = MIMEText(message)
